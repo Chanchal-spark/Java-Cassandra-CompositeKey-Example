@@ -1,4 +1,4 @@
-package Chanchal.Cassendra;
+package Ajay.cassendra;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
