@@ -1,6 +1,6 @@
-# Java-Cassandra-CompositeKey-Example
+### Java-Cassandra-CompositeKey-Example
 
-#Create keyspace inventory by using following syntax
+###Create keyspace inventory by using following syntax
 
 create keyspace inventory with replication={'class':'SimpleStrategy','replication_factor':1};
 
